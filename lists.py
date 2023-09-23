@@ -7,6 +7,8 @@ print("Apples" in fruits)
 
 print(fruits.count("Apples"))
 
+print(fruits.index("Apples"))
+
 '''
 print(fruits, years)
 
